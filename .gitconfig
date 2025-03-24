@@ -1,0 +1,5 @@
+[safe]
+	directory = /home/jovyan
+[user]
+	email = dlytica.gcp@gmail.com
+	name = dlytica-gcp

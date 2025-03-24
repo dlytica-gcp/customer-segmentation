@@ -1,0 +1,12 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.7.0
+2 info using node@v20.15.0
+3 silly config:load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config:load:file:/home/jovyan/.npmrc
+5 silly config:load:file:/usr/etc/npmrc
+6 verbose title npm prefix
+7 verbose argv "prefix" "--global"
+8 verbose logfile logs-max:10 dir:/home/jovyan/.npm/_logs/2025-03-24T07_26_21_790Z-
+9 verbose logfile /home/jovyan/.npm/_logs/2025-03-24T07_26_21_790Z-debug-0.log
+10 verbose exit 0
+11 info ok
